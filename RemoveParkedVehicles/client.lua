@@ -15,3 +15,5 @@ Citizen.CreateThread(function()
 	end
 
 end)
+
+-- Join NRW:RP now! discord.gg/nrwrp
